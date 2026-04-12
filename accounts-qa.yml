@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "John Smith - Developer"
-    email: "john.smith@eazybank.com"
+    email: "821989e9df6563784fb93eb42ce6267630577dcf1efd63d2ec2d57417031aa59ad59b69029af41aacfa06241b255ed1d"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-1345
