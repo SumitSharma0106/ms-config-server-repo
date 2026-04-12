@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank Cards related Local APIs "
+  contactDetails:
+    name: "Wayne Smith - Developer"
+    email: "wayne.smith@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
