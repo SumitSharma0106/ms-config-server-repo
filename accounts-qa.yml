@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA API"
+  message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
     name: "John Smith - Developer"
     email: "{cipher}821989e9df6563784fb93eb42ce6267630577dcf1efd63d2ec2d57417031aa59ad59b69029af41aacfa06241b255ed1d"
